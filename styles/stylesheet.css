@@ -1,0 +1,12 @@
+#google-logo {
+    margin: auto;
+    display: block;
+    padding-top: 109px;
+}
+
+#search-bar {
+    margin: 30px auto 0 auto;
+    display: block;
+    width: 600px;
+    height: 40px;
+}
